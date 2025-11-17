@@ -1,0 +1,2 @@
+# modeling_of_automobile_roads_by_means_of_multiple_surface_types
+Մի շարք մակերևույթների միջոցով ավտոճանապարհների տարածական մոդելավորման մասին
